@@ -1,24 +1,10 @@
 {
   "shadow": true,
-  "main": "#7922FF",
+  "main": "#0384FC",
   "mainText": "#ffffff",
   "mainHex": { "B": 252, "G": 132, "R": 3 },
   "currency": "$",
   "items": {
-    "ringshahneshen5": {
-      "Description": "Um antigo anel forjado para os mais habilidosos guerreiros de Shah Neshen, sua energia mística aprimora os reflexos e a precisão de quem o utiliza.",
-      "Buffs": {
-        "Dexterity": 0.1,
-        "Luck": 25
-      },
-      "AdminLevel": 1,
-      "Name": "Anel de Shah Neshen - V",
-      "Weight": 0.0,
-      "Index": "ringshahneshen",
-      "Durability": 720,
-      "Rarity": "mythic",
-      "Type": "Comum"
-    },
     "WEAPON_ACIDPACKAGE": {
       "Arrest": true,
       "Vehicle": true,
@@ -859,20 +845,6 @@
       "Type": "Consumível",
       "Name": "Hack de Televisão",
       "Weight": 2.0
-    },
-    "gorgonearring5": {
-      "Description": "Um bracelete adornado com escamas da lendária Górgona e gravado com antigos símbolos arcanos, sua presença inspira respeito enquanto sua energia distorce o destino ao favor de seu portador, concedendo maior carisma e uma sorte extraordinária em sua jornada.",
-      "Buffs": {
-        "Charisma": 0.08,
-        "Luck": 15
-      },
-      "AdminLevel": 1,
-      "Name": "Bracelete de Gorgon - V",
-      "Weight": 0.0,
-      "Index": "gorgonearring",
-      "Durability": 720,
-      "Rarity": "mythic",
-      "Type": "Comum"
     },
     "cokeclone_60": {
       "Market": true,
@@ -2967,19 +2939,6 @@
       "Name": "Borracha",
       "Weight": 0.045
     },
-    "apexgoldcursed5": {
-      "Description": "Uma relíquia forjada com ouro amaldiçoado, capaz de conceder ao seu portador uma agilidade, dizem que seu brilho carrega a maldição dos antigos reis, transformando cada passo em um movimento veloz e preciso.",
-      "Buffs": {
-        "MovimentSpeed": 0.05
-      },
-      "AdminLevel": 1,
-      "Name": "Anel Amaldiçoado - V",
-      "Weight": 0.0,
-      "Index": "apexgoldcursed",
-      "Durability": 720,
-      "Rarity": "mythic",
-      "Type": "Comum"
-    },
     "cookies": {
       "Market": true,
       "AdminLevel": 1,
@@ -3416,19 +3375,6 @@
       "AdminLevel": 1,
       "Name": "Ração Animal",
       "Weight": 0.75
-    },
-    "etherealamulet5": {
-      "Description": "Um relicário forjado com fragmentos do plano etéreo, onde o tempo flui de forma diferente, dizem que aqueles que o carregam conseguem agir antes mesmo que o destino complete seu ciclo.",
-      "Buffs": {
-        "CooldownReduction": 0.1
-      },
-      "AdminLevel": 1,
-      "Name": "Amuleto Etéreo - V",
-      "Weight": 0.0,
-      "Index": "etherealamulet",
-      "Durability": 720,
-      "Rarity": "mythic",
-      "Type": "Comum"
     },
     "ricebag": {
       "Market": true,
@@ -6709,19 +6655,6 @@
       "Name": "Nota Promissória",
       "Weight": 0.0
     },
-    "titanicamulet5": {
-      "Description": "Forjado com fragmentos de rochas ancestrais e imbuído da essência dos antigos titãs, este amuleto concede ao seu portador uma força muito além dos limites humanos, seu peso é imperceptível para quem é digno de carregá-lo, mas seu poder é capaz de transformar qualquer aventureiro em uma verdadeira fortaleza.",
-      "Buffs": {
-        "Strenght": 75
-      },
-      "AdminLevel": 1,
-      "Name": "Amuleto Titânico - V",
-      "Weight": 0.0,
-      "Index": "titanicamulet",
-      "Durability": 720,
-      "Rarity": "mythic",
-      "Type": "Comum"
-    },
     "nigirizushi": {
       "Market": true,
       "AdminLevel": 1,
@@ -6938,20 +6871,6 @@
       "Type": "Consumível",
       "Purity": 0,
       "LostWater": true
-    },
-    "amuletninsun5": {
-      "Description": "Um relicário abençoado por Ninsun, a deusa suméria da sabedoria e das bênçãos, diz-se que sua presença atrai a boa fortuna, aumentando as chances de acontecimentos favoráveis para seu portador.",
-      "Buffs": {
-        "Charisma": 0.08,
-        "Dexterity": 0.1
-      },
-      "AdminLevel": 1,
-      "Name": "Amuleto de Ninsun - V",
-      "Weight": 0.0,
-      "Index": "amuletninsun",
-      "Durability": 720,
-      "Rarity": "mythic",
-      "Type": "Comum"
     },
     "smallshark": {
       "Market": true,
@@ -14008,11 +13927,10 @@
     9180, 10810, 12690, 14850, 17330, 20180, 23450, 27210, 31540, 36510, 42230,
     48810, 56370, 65060, 75060, 86550, 99999
   ],
-  "common": "#7fd67b",
-  "rare": "#81bbe8",
-  "epic": "#9c85e6",
-  "legendary": "#ea8c55",
-  "mythic": "#e97982",
+  "common": "#6FCC6A",
+  "rare": "#5AC8C6",
+  "epic": "#C65A70",
+  "legendary": "#C68C4A",
   "accept": {
     "letter": "#dcffe9",
     "background": "#3fa466"
@@ -14074,33 +13992,33 @@
     "alwaysWanted": true,
     "percentage": true,
     "icons": "#FFFFFF",
-    "nitro": "#F69D2A",
-    "rpm": "#FFFFFF",
-    "fuel": "#F94C54",
-    "engine": "#FF4C55",
-    "health": "#76B984",
-    "armor": "#A66FED",
-    "hunger": "#F4B266",
-    "thirst": "#7FC8F8",
-    "oxygen": "#38F8F8",
-    "stress": "#E287C9",
-    "stamina": "#E4E36A",
-    "repose": "#7FCCC7",
-    "pointer": "#EF4444",
+		"nitro": "#0A78E5",
+		"rpm": "#FFFFFF",
+		"fuel": "#F73846",
+		"engine": "#F6A42A",
+		"health": "#FF3D72",
+		"armor": "#6F79FF",
+		"hunger": "#FFB84A",
+		"thirst": "#4AD6FF",
+		"oxygen": "#3AF6F6",
+		"stress": "#E078C6",
+		"stamina": "#E4E36A",
+		"repose": "#6FD6CF",
+		"pointer": "#EF2E2E",
     "progress": {
       "background": "#FFFFFF",
-      "circle": "#7922FF",
+      "circle": "#0384FC",
       "letter": "#FFFFFF"
     }
   },
   "notifyitem": {
     "add": {
-      "letter": "#dcffe9",
-      "background": "#3fa466"
+      "letter": "#FFFFFF",
+      "background": "#2CC14A"
     },
     "remove": {
-      "letter": "#ffe8e8",
-      "background": "#ad4443"
+      "letter": "#FFFFFF",
+      "background": "#E23C3C"
     }
   },
   "pause": {
