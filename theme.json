@@ -2,6 +2,7 @@
   "shadow": true,
   "main": "#7922FF",
   "mainText": "#ffffff",
+  "mainHex": { "B": 252, "G": 132, "R": 3 },
   "currency": "$",
   "items": {
     "ringshahneshen5": {
@@ -14067,8 +14068,8 @@
       "vehicle": 3
     },
     "logo": {
-      "image": "logo.png",
-      "size": 75
+      "image": "logo.webp",
+      "size": 70
     },
     "alwaysWanted": true,
     "percentage": true,
@@ -14083,8 +14084,7 @@
     "thirst": "#7FC8F8",
     "oxygen": "#38F8F8",
     "stress": "#E287C9",
-    "luck": "#F18A7C",
-    "dexterity": "#E4E76E",
+    "stamina": "#E4E36A",
     "repose": "#7FCCC7",
     "pointer": "#EF4444",
     "progress": {

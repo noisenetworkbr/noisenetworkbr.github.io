@@ -2,6 +2,7 @@
   "shadow": true,
   "main": "#5865f2",
   "mainText": "#ffffff",
+  "mainHex": { "B": 242, "G": 101, "R": 88 },
   "currency": "$",
   "items": {
     "ringshahneshen5": {
@@ -14080,8 +14081,7 @@
     "thirst": "#7FC8F8",
     "oxygen": "#38F8F8",
     "stress": "#E287C9",
-    "luck": "#F18A7C",
-    "dexterity": "#E4E76E",
+    "stamina": "#E4E36A",
     "repose": "#7FCCC7",
     "pointer": "#EF4444",
     "progress": {
