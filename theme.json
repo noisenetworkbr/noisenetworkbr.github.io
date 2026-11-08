@@ -1,7 +1,7 @@
 {
   "shadow": true,
   "main": "#0384FC",
-  "mainText": "#ffffff",
+  "mainText": "#FFFFFF",
   "mainHex": { "B": 252, "G": 132, "R": 3 },
   "currency": "$",
   "items": {
@@ -13932,12 +13932,12 @@
   "epic": "#C65A70",
   "legendary": "#C68C4A",
   "accept": {
-    "letter": "#dcffe9",
-    "background": "#3fa466"
+    "letter": "#FFFFFF",
+    "background": "#2CC14A"
   },
   "reject": {
-    "letter": "#ffe8e8",
-    "background": "#ad4443"
+    "letter": "#FFFFFF",
+    "background": "#E23C3C"
   },
   "loading": {
     "mode": "dark",
@@ -13951,31 +13951,31 @@
     },
     "LSPD": {
       "background": "#16468b",
-      "letter": "#ffffff"
+      "letter": "#FFFFFF"
     },
     "BCSO": {
       "background": "#463939",
-      "letter": "#ffffff"
+      "letter": "#FFFFFF"
     },
     "SAPR": {
       "background": "#2d402d",
-      "letter": "#ffffff"
+      "letter": "#FFFFFF"
     },
     "Paramedico": {
       "background": "#9f1918",
-      "letter": "#ffffff"
+      "letter": "#FFFFFF"
     },
     "Families": {
       "background": "#4d7a06",
-      "letter": "#ffffff"
+      "letter": "#FFFFFF"
     },
     "Ballas": {
       "background": "#430d8e",
-      "letter": "#ffffff"
+      "letter": "#FFFFFF"
     },
     "Vagos": {
       "background": "#948209",
-      "letter": "#ffffff"
+      "letter": "#FFFFFF"
     }
   },
   "hud": {
